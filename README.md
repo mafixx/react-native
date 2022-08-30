@@ -1,1 +1,1 @@
-# First class of React Native @ Proway
+# React Native @ Proway
